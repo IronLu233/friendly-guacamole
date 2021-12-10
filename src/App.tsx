@@ -1,5 +1,5 @@
 import React, { FC, useEffect } from "react";
-import kleeURL from "./klee.jpg";
+import kleeURL from "./klee.png";
 
 const createMetaTag = (name: string, content: string) => {
   const meta = document.createElement("meta");
